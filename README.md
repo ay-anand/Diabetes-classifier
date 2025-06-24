@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/dashboard.png" alt="Dashboard Screenshot" width="600"/>
+  <img src="Screenshot 2025-06-24 115300.png" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 # 🩺 Pima Diabetes Predictor
